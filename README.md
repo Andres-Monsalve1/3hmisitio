@@ -1,21 +1,20 @@
- ![mascotas.png](mascotas.png)
-# Can Rescue
-No compres, Adopta
+ ![logo.png](logo.png)
+# zorvathian dynamics
+donde la ciencia y la magia se necuentran
 
 ## Tema
-sitio web ambientado en rescate de perros
+sitio web ambientado en portales de dimenciones
 
 ## Descripcion
-Organización sin fines de lucro dedicada a rescate y cuidado de perros callejeros.
-les damos una segunda oportunidad a quienes más lo necesitan
+empresa interdimensional que se especializa en la creacion de portales para viajar entre universos.
 
 ## paleta de colores
-principal: cafe
-secundario: beige
-contraste: blanco
+principal: violeta
+secundario: verde
+acentuacion: amarillo
 
 ## estilo de fuente:
-titulo: Alfa Slab One
+titulo: rubik mono one
 parrafo: rubik
 
 ### Autor: (3H) Monsalve Wilmer
