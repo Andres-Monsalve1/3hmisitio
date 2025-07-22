@@ -1,4 +1,4 @@
- ![logo.png](logo.png)
+ ![logo.png](mascotas.png)
 # zorvathian dynamics
 donde la ciencia y la magia se necuentran
 
